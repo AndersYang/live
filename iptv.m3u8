@@ -10,9 +10,18 @@ https://epg.pw/stream/245d1072476eeab5f81d1de6ad86becda334c7305fcc8ecd462b3a05cc
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="特别收藏",东方影视
 https://epg.pw/stream/772a3f614df22e236a632996d17934432030a5daa5c6c76e91c7a6c438dee3f5.ctv
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="特别收藏",上海新闻综合
+https://epg.pw/stream/51b739e6faabca7526d98215ddb22b4c3f221b59c07abe6fab5a3b6ecf8b0def.m3u8
+http://178.157.60.73/proxy/1800137038/1800137038.m3u8
 http://222.71.11.180:4022/udp/239.45.3.209:5140
-https://epg.pw/stream/696adde44bf1c09587dfd1a77bcdb025dca932b8ea63cb1997593bfdffee0e5f.ctv
 https://epg.pw/stream/bafd48d6c8c4bcd8c381185a2bfe78a0d620d9975ad3135286d6a27a81bbd042.ctv
+#EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="特别收藏",上海新闻综合-1
+http://178.157.60.73/proxy/1800137038/1800137038.m3u8
+#EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="特别收藏",上海新闻综合-2
+https://epg.pw/stream/bafd48d6c8c4bcd8c381185a2bfe78a0d620d9975ad3135286d6a27a81bbd042.ctv
+#EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="特别收藏",上海新闻综合-3
+http://222.71.11.180:4022/udp/239.45.3.209:5140
+#EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="特别收藏",上海新闻综合-4
+https://epg.pw/stream/51b739e6faabca7526d98215ddb22b4c3f221b59c07abe6fab5a3b6ecf8b0def.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="特别收藏",东方卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 https://epg.pw/stream/1329aab0c057a65f1395c02e7a8df1bfc02144f0a6328d684398e554494e715e.m3u8
