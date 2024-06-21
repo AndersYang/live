@@ -1,34 +1,93 @@
 ## https://github.com/fanmingming/live
 #EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="特别收藏",五星体育
+https://stream.freetv.fun/162f3b31dae848d7034f0e59e8bfb95be10992dfeaac2c791d9e65585ddcf605.m3u8
+https://stream.freetv.fun/db14fc2baa9a5f80d04c349ac5d7ac3a9fd45586fb599fe3922cdf9f6fe9f6b3.m3u8
+https://stream.freetv.fun/4ef66089dbf5be44fbd9ce48d16aa33ea8182fa8c54cbf5b0b57617fb2a0f114.m3u8
+https://stream.freetv.fun/ipv6-wu-xing-ti-yu-8.m3u8
+https://stream.freetv.fun/ca2a7c1d63d0bb0d08abc1bd543f111dfb2ff7b0606a462f6aabf2165e6134f1.m3u8
+https://stream.freetv.fun/ipv6-wu-xing-ti-yu-6.m3u8
+https://stream.freetv.fun/245d1072476eeab5f81d1de6ad86becda334c7305fcc8ecd462b3a05cca4e7a3.m3u8
+https://stream.freetv.fun/ipv6-wu-xing-ti-yu-3.m3u8
+https://stream.freetv.fun/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.m3u8
+https://stream.freetv.fun/ipv6-wu-xing-ti-yu-2.m3u8
+https://stream.freetv.fun/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bbed79b2.m3u8
+https://stream.freetv.fun/ipv6-wu-xing-ti-yu-1.m3u8
+https://stream.freetv.fun/77e6a87707daa10bc16c27335e67f2cff3a22bfd649de58c7eeb62560673c079.ctv
+https://stream.freetv.fun/10103b6ba5a09a37498d17dbf81e122b5d0e522031728b2d1e226ed8dd04dfcd.ctv
+https://stream.freetv.fun/ca5540d720ddf4078d7aa44538c09164fa1d28cbbb45dc85c32501cb056ca7de.ctv
+https://stream.freetv.fun/e86c7d8d235bd21b92b58ea8aec7e4263c0ab046672e9ea766d17959850f215d.ctv
 https://epg.pw/stream/4ef66089dbf5be44fbd9ce48d16aa33ea8182fa8c54cbf5b0b57617fb2a0f114.m3u8
 https://epg.pw/stream/245d1072476eeab5f81d1de6ad86becda334c7305fcc8ecd462b3a05cca4e7a3.ctv
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="特别收藏",五星体育-1
-https://epg.pw/stream/4ef66089dbf5be44fbd9ce48d16aa33ea8182fa8c54cbf5b0b57617fb2a0f114.m3u8
+https://stream.freetv.fun/162f3b31dae848d7034f0e59e8bfb95be10992dfeaac2c791d9e65585ddcf605.m3u8
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="特别收藏",五星体育-2
-https://epg.pw/stream/245d1072476eeab5f81d1de6ad86becda334c7305fcc8ecd462b3a05cca4e7a3.ctv
+https://stream.freetv.fun/db14fc2baa9a5f80d04c349ac5d7ac3a9fd45586fb599fe3922cdf9f6fe9f6b3.m3u8
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="特别收藏",五星体育-3
+https://stream.freetv.fun/4ef66089dbf5be44fbd9ce48d16aa33ea8182fa8c54cbf5b0b57617fb2a0f114.m3u8
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="特别收藏",五星体育-4
+https://stream.freetv.fun/ipv6-wu-xing-ti-yu-8.m3u8
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="特别收藏",五星体育-5
+https://stream.freetv.fun/ca2a7c1d63d0bb0d08abc1bd543f111dfb2ff7b0606a462f6aabf2165e6134f1.m3u8
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="特别收藏",五星体育-6
+https://stream.freetv.fun/ipv6-wu-xing-ti-yu-6.m3u8
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="特别收藏",五星体育-7
+https://stream.freetv.fun/245d1072476eeab5f81d1de6ad86becda334c7305fcc8ecd462b3a05cca4e7a3.m3u8
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="特别收藏",五星体育-8
+https://stream.freetv.fun/ipv6-wu-xing-ti-yu-3.m3u8
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="特别收藏",五星体育-9
+https://stream.freetv.fun/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.m3u8
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="特别收藏",五星体育-10
+https://stream.freetv.fun/ipv6-wu-xing-ti-yu-2.m3u8
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="特别收藏",五星体育-11
+https://stream.freetv.fun/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bbed79b2.m3u8
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="特别收藏",五星体育-12
+https://stream.freetv.fun/ipv6-wu-xing-ti-yu-1.m3u8
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="特别收藏",东方影视
-https://epg.pw/stream/772a3f614df22e236a632996d17934432030a5daa5c6c76e91c7a6c438dee3f5.ctv
+https://stream.freetv.fun/d6aa34abeda5d5bc36571ec0f6fbc4e35794d709ada64149646edccc2470ab76.m3u8
+https://stream.freetv.fun/772a3f614df22e236a632996d17934432030a5daa5c6c76e91c7a6c438dee3f5.m3u8
+https://stream.freetv.fun/ipv6-dong-fang-ying-shi-1.m3u8
+https://stream.freetv.fun/d1219061ef9f177b1bdbe655e280b768c34e1a395e0ac994da4530e99719c2d3.ctv
+#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="特别收藏",东方影视-1
+https://stream.freetv.fun/d6aa34abeda5d5bc36571ec0f6fbc4e35794d709ada64149646edccc2470ab76.m3u8
+#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="特别收藏",东方影视-2
+https://stream.freetv.fun/772a3f614df22e236a632996d17934432030a5daa5c6c76e91c7a6c438dee3f5.m3u8
+#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="特别收藏",东方影视-3
+https://stream.freetv.fun/ipv6-dong-fang-ying-shi-1.m3u8
+#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="特别收藏",东方影视-4
+https://stream.freetv.fun/d1219061ef9f177b1bdbe655e280b768c34e1a395e0ac994da4530e99719c2d3.ctv
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="特别收藏",上海新闻综合
+https://stream.freetv.fun/4ea02af0c45ed12a4f2ec70081a02250d7e9cd39a0b4b14a9f48ccd276224c22.m3u8
+https://stream.freetv.fun/ipv6-shang-hai-xin-wen-1.m3u8
+https://stream.freetv.fun/51b739e6faabca7526d98215ddb22b4c3f221b59c07abe6fab5a3b6ecf8b0def.ctv
+https://stream.freetv.fun/shang-hai-xin-wen-zong-he-1.ctv
 https://epg.pw/stream/51b739e6faabca7526d98215ddb22b4c3f221b59c07abe6fab5a3b6ecf8b0def.m3u8
-http://178.157.60.73/proxy/1800137038/1800137038.m3u8
-http://222.71.11.180:4022/udp/239.45.3.209:5140
-https://epg.pw/stream/bafd48d6c8c4bcd8c381185a2bfe78a0d620d9975ad3135286d6a27a81bbd042.ctv
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="特别收藏",上海新闻综合-1
-http://178.157.60.73/proxy/1800137038/1800137038.m3u8
+https://stream.freetv.fun/4ea02af0c45ed12a4f2ec70081a02250d7e9cd39a0b4b14a9f48ccd276224c22.m3u8
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="特别收藏",上海新闻综合-2
-https://epg.pw/stream/bafd48d6c8c4bcd8c381185a2bfe78a0d620d9975ad3135286d6a27a81bbd042.ctv
+https://stream.freetv.fun/ipv6-shang-hai-xin-wen-1.m3u8
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="特别收藏",上海新闻综合-3
-http://222.71.11.180:4022/udp/239.45.3.209:5140
+https://stream.freetv.fun/51b739e6faabca7526d98215ddb22b4c3f221b59c07abe6fab5a3b6ecf8b0def.ctv
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="特别收藏",上海新闻综合-4
+https://stream.freetv.fun/shang-hai-xin-wen-zong-he-1.ctv
+#EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="特别收藏",上海新闻综合-5
 https://epg.pw/stream/51b739e6faabca7526d98215ddb22b4c3f221b59c07abe6fab5a3b6ecf8b0def.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="特别收藏",东方卫视
+https://stream.freetv.fun/c215ce568fe37e2c38d51bb356d95a79e5c69632b7d56a3b6f25c00888ef8a41.m3u8
+https://stream.freetv.fun/ipv6-dong-fang-wei-shi-59.m3u8
+https://stream.freetv.fun/71f2454065b2ccb3d5b42e41bc009aa5186135482581aabe54141d5724560e6b.m3u8
+https://stream.freetv.fun/ipv6-dong-fang-wei-shi-60.m3u8
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 https://epg.pw/stream/1329aab0c057a65f1395c02e7a8df1bfc02144f0a6328d684398e554494e715e.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="特别收藏",湖南卫视
+https://stream.freetv.fun/f6a1c564d4bbcd9ea70993084d8106e14b615b18a176b8753fd37cd1c8f6d2ea.m3u8
+https://stream.freetv.fun/ipv6-hu-nan-wei-shi-72.m3u8
+https://stream.freetv.fun/df7ce3986cc4121b6fc35ff21ef5a22ee09c2d6e65941442169c59e8558bcb61.m3u8
+https://stream.freetv.fun/ipv6-hu-nan-wei-shi-71.m3u8
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 https://epg.pw/stream/a3a2c5f90a832cca666abb96a7c41c31257255929c370ef293eb28e6485055d0.m3u8
 #EXTINF:-1 tvg-id="南通3高清" tvg-name="南通3高清" tvg-logo="" group-title="特别收藏",南通3高清
+https://stream.freetv.fun/7c384548a39a33f90a2b0126914f639e2250c16546c3e25276880f6c05af525a.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw1440049912_-2025370179/ott.mobaibox.com/PLTV/4/224/3221228451/index.m3u8?icpid=4&RTS=1664455886&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="特别收藏",北京卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
