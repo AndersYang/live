@@ -20,7 +20,7 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="特别收藏",浙江卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="特别收藏",陕西卫视
-https://stream1.freetv.fun/e1ee5fddaf586f663397154fc8bca031d34612639d64fa2612528612503f1e82.ctv
+https://stream1.freetv.fun/ef3ca740a441fad8edd828abf22ae07619b4323281208c28c45217f98f381c3f.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="特别收藏",CCTV-6 电影
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 https://stream1.freetv.fun/31c3bfce09a65736c654c22fd9d529982b1e018c56558dedbc10320363ee5b8a.m3u8
