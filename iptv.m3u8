@@ -1,13 +1,19 @@
 ## https://github.com/fanmingming/live
 #EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="特别收藏",五星体育
-https://stream1.freetv.fun/848c759e601a639d2b3b4c47ac684ced3bda9c34b167de4f7fd53fb3f72ad182.ctv
+https://stream1.freetv.fun/a8b8c48cb6cb4d262f29891f3dabce92af8606816e72cda3525bce979e4b1c1d.ctv
+https://stream1.freetv.fun/3070412185add1a71a14fb4c4fed6f1e3f05006a20540a51ea3d3b0c8d90f73f.ctv
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="特别收藏",东方影视
-https://stream1.freetv.fun/9d3c9f7982bce6a6d8c61dee6b3533032537b84c1312b8bf2613be972edfc0df.ctv
+https://stream1.freetv.fun/18df6a8d7a7c901fd593cb38dca05ab99fd25220d9d97d1ba13edd534c8f29c9.ctv
+https://stream1.freetv.fun/fb3cc1fdd0c8cf0fa20d6263bce0be430c65d03980091a69901fcd9136d8cd2a.ctv
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="特别收藏",上海新闻综合
-https://stream1.freetv.fun/51b739e6faabca7526d98215ddb22b4c3f221b59c07abe6fab5a3b6ecf8b0def.ctv
+https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-1.ctv
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="特别收藏",东方卫视
-https://stream1.freetv.fun/496ad021410cf72f35afab9e14ad72fdb88c00286877299706dde5811fc887f5.ctv
+https://stream1.freetv.fun/d000b55ab052c241fd5aa4f0e30583ff1c2eaf0bfcda8c0491d5958f7a5432fa.ctv
+https://stream1.freetv.fun/1f8bca179468640b8f6e49c5941463b32b8708f2fe73ae1cef5615b2be9a533f.m3u8
+https://stream1.freetv.fun/b21c8c544eb3d984fa5cdcd80f9c894dc371c301e097bdcd2889ec205453373f.m3u8
+https://stream1.freetv.fun/093dbb98a1bbfb40fb70dc1c717bf74202c4ae35ad55cd4475c7d755d0581487.ctv
+https://stream1.freetv.fun/ff44669b123549ed027073da9b61caf1b2c5125d67fb54267285982c03d928db.ctv
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="特别收藏",湖南卫视
 https://stream1.freetv.fun/92e56f65e82016f0d295dfdf687db0b39e7c4a60139010e09b6078ac5652500c.m3u8
 #EXTINF:-1 tvg-id="南通3高清" tvg-name="南通3高清" tvg-logo="" group-title="特别收藏",南通3高清
