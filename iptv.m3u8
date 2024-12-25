@@ -1,36 +1,29 @@
 ## https://github.com/fanmingming/live
 #EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="特别收藏",五星体育
-https://stream1.freetv.fun/a8b8c48cb6cb4d262f29891f3dabce92af8606816e72cda3525bce979e4b1c1d.ctv
-https://stream1.freetv.fun/3070412185add1a71a14fb4c4fed6f1e3f05006a20540a51ea3d3b0c8d90f73f.ctv
+https://stream1.freetv.fun/46db25feb5a101ea38cae1008f737d9483694b044670c1258b3f58473f4ca4ee.m3u8
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="特别收藏",东方影视
-https://stream1.freetv.fun/9676c3e18b095931533f9bae94e08514171a7effadf19cce06d85adfe384eff8.m3u8
+https://stream1.freetv.fun/95ddb56d602899fabfc9e7c2b1c9054bdf1b1ea750bd967e8d6ec4c665d1b96b.m3u8
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="特别收藏",上海新闻综合
-https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-1.ctv
+https://stream1.freetv.fun/d8f67a3103d92d7f6cef52e95d97b6a444b2c594f76ed068f6b036f8edcb9d08.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="特别收藏",东方卫视
-https://stream1.freetv.fun/d000b55ab052c241fd5aa4f0e30583ff1c2eaf0bfcda8c0491d5958f7a5432fa.ctv
-https://stream1.freetv.fun/1f8bca179468640b8f6e49c5941463b32b8708f2fe73ae1cef5615b2be9a533f.m3u8
-https://stream1.freetv.fun/b21c8c544eb3d984fa5cdcd80f9c894dc371c301e097bdcd2889ec205453373f.m3u8
-https://stream1.freetv.fun/093dbb98a1bbfb40fb70dc1c717bf74202c4ae35ad55cd4475c7d755d0581487.ctv
-https://stream1.freetv.fun/ff44669b123549ed027073da9b61caf1b2c5125d67fb54267285982c03d928db.ctv
+https://stream1.freetv.fun/134ce9e30b1684995f4cff3979b7ed6be56aa2908be43cdf7ec9b2b0e193d069.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="特别收藏",湖南卫视
-https://stream1.freetv.fun/216501c30cd3c68538f185b66be6345ac7bf582ae5a46e168e0e7cfdde81766c.m3u8
+https://stream1.freetv.fun/df7ce3986cc4121b6fc35ff21ef5a22ee09c2d6e65941442169c59e8558bcb61.m3u8
 #EXTINF:-1 tvg-id="南通3高清" tvg-name="南通3高清" tvg-logo="" group-title="特别收藏",南通3高清
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw1440049912_-2025370179/ott.mobaibox.com/PLTV/4/224/3221228451/index.m3u8?icpid=4&RTS=1664455886&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 https://stream.freetv.fun/7c384548a39a33f90a2b0126914f639e2250c16546c3e25276880f6c05af525a.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="特别收藏",北京卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+https://stream1.freetv.fun/4ca6b8c180674c4d49b66ec138347a7400c23b5e5cef1a7a182b53dcc56eb573.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="特别收藏",天津卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
+https://stream1.freetv.fun/d2afe511b539ccd5f0342b3b809c934a9c1db1a7367dcc656633afe6d8723f74.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="特别收藏",浙江卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+https://stream1.freetv.fun/96de7e9550960c92ede1944a225562a4442ce5ab958a5e5739a3df4eac5cc652.m3u8
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="特别收藏",陕西卫视
-https://stream1.freetv.fun/b2a7e6f1906f9eb4a03c1922cfecd976bed56b5a2a551ac3b3f67434042ab9de.m3u8
-https://stream1.freetv.fun/e222368a84950bf44f130395d70e843f9e0990507b77efecf78931f082119289.ctv
+https://stream1.freetv.fun/50ee2aeea73e2221b105c52652cfd902dc1c7c7ae81efebb976bc6621a5d04f8.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="特别收藏",CCTV-6 电影
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-https://stream1.freetv.fun/31c3bfce09a65736c654c22fd9d529982b1e018c56558dedbc10320363ee5b8a.m3u8
+https://stream1.freetv.fun/729873dafa91261e9818cb877dd1625bd9962b97dd04fc6cbaf1f5730a442f9f.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="特别收藏",CCTV-8 电视剧
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+https://stream1.freetv.fun/4f878c17e66697604b75af96fcdcf079d62cb279a5f72d3fc32efad5cb175fcc.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="特别收藏",CCTV-17 农业农村
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+https://stream1.freetv.fun/fc3faa56023600f0edb555563160b0f13de9ef1eecb9927522c8f9848ce252c9.m3u8
