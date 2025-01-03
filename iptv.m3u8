@@ -1,29 +1,29 @@
 ## https://github.com/fanmingming/live
 #EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="特别收藏",五星体育
-https://stream1.freetv.fun/46db25feb5a101ea38cae1008f737d9483694b044670c1258b3f58473f4ca4ee.m3u8
+https://stream1.freetv.fun/shang-shi-wu-xing-ti-yu-1.m3u8
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="特别收藏",东方影视
-https://stream1.freetv.fun/95ddb56d602899fabfc9e7c2b1c9054bdf1b1ea750bd967e8d6ec4c665d1b96b.m3u8
+https://stream1.freetv.fun/shang-shi-dong-fang-ying-shi-1.m3u8
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="特别收藏",上海新闻综合
-https://stream1.freetv.fun/d8f67a3103d92d7f6cef52e95d97b6a444b2c594f76ed068f6b036f8edcb9d08.m3u8
+https://stream1.freetv.fun/shang-shi-xin-wen-zong-he-1.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="特别收藏",东方卫视
-https://stream1.freetv.fun/134ce9e30b1684995f4cff3979b7ed6be56aa2908be43cdf7ec9b2b0e193d069.m3u8
+https://stream1.freetv.fun/dong-fang-wei-shi--4m-2.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="特别收藏",湖南卫视
-https://stream1.freetv.fun/df7ce3986cc4121b6fc35ff21ef5a22ee09c2d6e65941442169c59e8558bcb61.m3u8
+https://stream1.freetv.fun/hu-nan-wei-shi--8m-1.m3u8
 #EXTINF:-1 tvg-id="南通3高清" tvg-name="南通3高清" tvg-logo="" group-title="特别收藏",南通3高清
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw1440049912_-2025370179/ott.mobaibox.com/PLTV/4/224/3221228451/index.m3u8?icpid=4&RTS=1664455886&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 https://stream.freetv.fun/7c384548a39a33f90a2b0126914f639e2250c16546c3e25276880f6c05af525a.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="特别收藏",北京卫视
-https://stream1.freetv.fun/4ca6b8c180674c4d49b66ec138347a7400c23b5e5cef1a7a182b53dcc56eb573.m3u8
+https://stream1.freetv.fun/bei-jing-wei-shi--4m-1.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="特别收藏",天津卫视
-https://stream1.freetv.fun/d2afe511b539ccd5f0342b3b809c934a9c1db1a7367dcc656633afe6d8723f74.m3u8
+https://stream1.freetv.fun/tian-jin-wei-shi--8m-2.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="特别收藏",浙江卫视
-https://stream1.freetv.fun/96de7e9550960c92ede1944a225562a4442ce5ab958a5e5739a3df4eac5cc652.m3u8
+https://stream1.freetv.fun/zhe-jiang-wei-shi--4m-1.m3u8
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="特别收藏",陕西卫视
-https://stream1.freetv.fun/50ee2aeea73e2221b105c52652cfd902dc1c7c7ae81efebb976bc6621a5d04f8.m3u8
+https://stream1.freetv.fun/ipv6-shan-xi-wei-shi-73.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="特别收藏",CCTV-6 电影
-https://stream1.freetv.fun/729873dafa91261e9818cb877dd1625bd9962b97dd04fc6cbaf1f5730a442f9f.m3u8
+https://stream1.freetv.fun/cctv68-2.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="特别收藏",CCTV-8 电视剧
-https://stream1.freetv.fun/4f878c17e66697604b75af96fcdcf079d62cb279a5f72d3fc32efad5cb175fcc.m3u8
+https://stream1.freetv.fun/cctv8-53.ctv
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="特别收藏",CCTV-17 农业农村
-https://stream1.freetv.fun/fc3faa56023600f0edb555563160b0f13de9ef1eecb9927522c8f9848ce252c9.m3u8
+https://stream1.freetv.fun/cctv17-68.m3u8
